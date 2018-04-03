@@ -1,0 +1,24 @@
+
+<html>
+
+
+<head>
+<title> "Segunda Pagina" </title>
+</head>
+
+<body>
+
+<!-- Nome: André Manzano -->
+<!-- RGA: 201311640027 -->
+
+
+<a href ="file:///C:/Users/Admin/Desktop/Programa%C3%A7%C3%A3o%20WEB/ExercicioAula01/Exemplo.html">
+<img src="C:\Users\Admin\Desktop\Programação WEB\ExercicioAula01\imgsegundapage.jpg"
+title="Paisagem"
+alt="Foto Rocha" 
+/>
+</a>
+
+</body>
+
+</html>
